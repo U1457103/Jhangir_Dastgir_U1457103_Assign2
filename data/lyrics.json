@@ -1,0 +1,47 @@
+[
+ {
+    "content_type": "singer",
+    "date": "",
+    "image_url": [ "../img/r1.png"],
+    "title": "Eminem - The Real Slim Shady",
+    "description": "<p>I'm Slim Shady, yes I'm the real Shady / All you other Slim Shadys are just imitating / So won't the real Slim Shady, please stand up, / Please stand up</p>",
+    "url": ["View Lyrics"]
+ },
+ {
+    "content_type": "singer",
+    "date": "",
+    "description": "<p>I'm not afraid (I'm not afraid) To take a stand (to take a stand) Everybody (everybody) Come take my hand (come take my hand)</p>",
+    "image_url": ["../img/r2.png"],
+    "title": " Eminem - Not Afraid ",
+    "url": ["View Lyrics"]
+ },
+ {
+    "content_type": "singer",
+    "date": "",
+    "description": "<p>Lately, I've been, I've been losing sleep / Dreaming about the things that we could be / But baby, I've been, I've been praying hard / Said no more counting dollar</p>",
+    "image_url": ["../img/o1.png"],
+    "title": " OneRepublic - Counting Stars",
+    "url": ["View Lyrics"]
+ },
+ {
+    "content_type": "singer",
+    "date": "",
+    "description": "<p>Shawty had them Apple Bottom Jeans (jeans) / Boots with the fur (with the fur) / The whole club was lookin' at her / She hit the floor (she hit the floor</p>",
+    "image_url": ["../img/r3.png"],
+    "title": "  Flo Rida - Low",
+    "url": ["View Lyrics"]
+ },
+ {
+  "content_type": "singer",
+  "date": "",
+  "description": "<p>Shine bright like a diamond / Shine bright like a diamond / Shining bright like a diamond / We're beautiful like diamonds in the sky</p>",
+   "image_url": ["../img/diamonds.png"],
+   "title": "  Rihanna - Diamonds",
+    "url": ["View Lyrics"]
+ }
+ 
+]
+
+
+
+        
