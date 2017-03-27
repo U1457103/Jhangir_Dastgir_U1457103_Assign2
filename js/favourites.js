@@ -68,9 +68,9 @@ function populateList()
 		newLi.append(newSpan)
 		thelyricslist.appendChild(newLi);
 	})
-	showFavFilms(); 
+	showFavLyrics(); 
 }
-function showFavFilms() 
+function showFavLyrics() 
 {
 	var allLyrics=getAllLyrics();
 	var favLyrics=getLyricsFav();
