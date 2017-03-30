@@ -3,7 +3,7 @@ $('#searchsingers').keyup(function() {
  var searchTerm = $(this).val(); 
  var myExp = new RegExp(searchTerm, "i"); 
 
- $.getJSON('/data/lyrics.json', function(data){
+ $.getJSON('../data/lyrics.json', function(data){
 
   var output = "<ul id='result'>";
   $.each(data, function(key, val){
