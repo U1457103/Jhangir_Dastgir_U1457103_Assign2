@@ -1,5 +1,5 @@
 
- $.getJSON('../data/lyrics.json', function(data){
+ $.getJSON('data/lyrics.json', function(data){
     var html = "<ul id='result'>";
       $.each(data, function (key, val) {
       html += '<img src ="' + val.image_url + '" class="image-styles" width="64" height="64" />';

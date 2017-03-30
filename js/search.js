@@ -9,7 +9,7 @@ $('#searchsingers').keyup(function() {
   $.each(data, function(key, val){
    if(val.title.search(myExp) != -1){
     output += '<li>';
-    output += '<a class="tab-item" href="html/lyrics.html" data-ignore="push">' + val.title + '</a>';
+    output += '<a class="tab-item" href="../html/lyrics.html" data-ignore="push">' + val.title + '</a>';
     output += '</li>';
    }
   });//end each
